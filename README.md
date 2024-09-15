@@ -13,8 +13,8 @@ O projeto inclui as seguintes funcionalidades:
 - **Saque:** Permite ao usuário retirar uma quantia específica da sua conta, se houver saldo suficiente.
 - **Depósito:** Permite ao usuário adicionar uma quantia específica à sua conta.
 - **Extrato:** Permite ao usuário visualizar o histórico de transações realizadas na conta.
-- **Cadastro de Novos Usuários** Permite ao usuário cadastrar novos usuários e potenciais clientes.
-- **Criação de Conta de Cliente** Aqui, ele permite a criação de novas contas para um cliente.
+- **Cadastro de Novos Usuários:** Permite ao usuário cadastrar novos usuários e potenciais clientes.
+- **Criação de Conta de Cliente:** Aqui, ele permite a criação de novas contas para um cliente.
 
 ## Requisitos
 
